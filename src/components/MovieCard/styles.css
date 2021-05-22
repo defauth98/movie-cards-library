@@ -1,0 +1,39 @@
+.movie-card {
+  background-color: white;
+  box-shadow: 0 0 18px 2px rgba(0, 0, 0, 0.75);
+  font-family: sans-serif;
+  height: 30rem;
+  margin: 1rem;
+  transition: 0.2s;
+  width: 30rem;
+}
+
+.movie-card:hover {
+  transform: scale(1.1);
+}
+
+.movie-card img {
+  height: 60%;
+  width: 100%;
+}
+
+.movie-card h4 {
+  font-size: 1.4rem;
+  margin-left: 0.7rem;
+  margin-top: 0.5rem;
+}
+
+.movie-card h5 {
+  color: #333;
+  font-size: 1rem;
+  font-weight: 400;
+  margin-left: 0.7rem;
+}
+
+.movie-card p {
+  font-size: 1rem;
+  font-weight: 400;
+  margin-left: 0.7rem;
+  margin-top: 0.4rem;
+  text-align: left;
+}

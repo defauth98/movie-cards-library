@@ -1,0 +1,12 @@
+.rating {
+  align-items: center;
+  background-color: red;
+  border-radius: 0.4rem;
+  color: white;
+  display: flex;
+  height: 1.4rem;
+  justify-content: center;
+  margin-left: 0.7rem;
+  margin-top: 1rem;
+  width: 2rem;
+}
