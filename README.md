@@ -11,7 +11,7 @@ Aplicação web de um biblioteca de filmes.
 
 ### :nut_and_bolt: Tecnologias
 
-Esse projeto foi desenvolvido com a seguinte técnologias:
+Esse projeto foi desenvolvido com a seguinte técnologia:
 
 - [React][reactjs]
 
