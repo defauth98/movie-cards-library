@@ -1,9 +1,11 @@
 .movie-list {
+  margin: 3rem;
+  display: flex;
+}
+
+.cards {
   display: grid;
-  grid-gap: 2rem;
   grid-template-columns: 1fr 1fr;
+  grid-gap: 1rem;
   margin: 0 auto;
-  margin-bottom: 4rem;
-  margin-top: 4rem;
-  width: 50%;
 }
