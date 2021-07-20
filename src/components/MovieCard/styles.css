@@ -38,4 +38,6 @@
   margin-left: 0.7rem;
   margin-top: 0.4rem;
   text-align: left;
+  height: 70px;
+  overflow: hidden;
 }
